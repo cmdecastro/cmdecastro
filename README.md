@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Crizzia Mielle de Castro
-- 👀 I’m interested in applying pattern extraction techniques in weather forecasting.
-- 🌱 I’m currently learning Analytical Methods in Meteorology and Oceanography, and Analog Forecasting of Strong Monsoon Events.
-- 📫 You can reach me using the following email: cmdecastro[at]up.edu.ph.
+- 👀 I’m interested in equatorial Kelvin waves and the Madden-Julian Oscillation.
+- 🌱 I’m currently studying Atmospheric Dynamics and Physics.
+- 📫 You can reach me using the following email: cdecastro[at]albany.edu.
 
 <!---
 cmdecastro/cmdecastro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
